@@ -1,15 +1,20 @@
 # GitHubAPI
 
-[![CI Status](http://img.shields.io/travis/William Kent/GitHubAPI.svg?style=flat)](https://travis-ci.org/William Kent/GitHubAPI)
 [![Version](https://img.shields.io/cocoapods/v/GitHubAPI.svg?style=flat)](http://cocoadocs.org/docsets/GitHubAPI)
 [![License](https://img.shields.io/cocoapods/l/GitHubAPI.svg?style=flat)](http://cocoadocs.org/docsets/GitHubAPI)
 [![Platform](https://img.shields.io/cocoapods/p/GitHubAPI.svg?style=flat)](http://cocoadocs.org/docsets/GitHubAPI)
+
+This is an Objective-C client library for the GitHub API v3, built upon
+the [Bolts Framework](https://github.com/wjk/BoltsTask).
 
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+All dependencies are managed through CocoaPods. GitHubAPI is compatible
+with both OS X and iOS.
 
 ## Installation
 
@@ -20,7 +25,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-William Kent, wjk011@gmail.com
+William Kent <https://github.com/wjk>
 
 ## License
 
