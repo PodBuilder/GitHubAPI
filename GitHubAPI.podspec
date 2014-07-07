@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.dependency 'Mantle'
   s.dependency 'ISO8601DateFormatter'
 
-  s.source_files = 'Pod/Classes'
+  s.source_files = [ 'Pod/Classes', 'Pod/Classes/Categories' ]
   s.requires_arc = true
 end
