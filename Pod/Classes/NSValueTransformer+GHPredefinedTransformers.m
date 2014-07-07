@@ -1,5 +1,5 @@
 //
-// NSValueTransformer+GHPredefinedTransformers.h
+// NSValueTransformer+GHPredefinedTransformers.m
 // GitHubAPI
 //
 // Created by William Kent on 2013-07-07.

@@ -1,5 +1,5 @@
 //
-// NSURL+GHQuery.h
+// NSURL+GHQuery.m
 // GitHubAPI
 //
 // Created by William Kent on 2013-07-07.
