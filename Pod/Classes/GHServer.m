@@ -25,6 +25,8 @@ NSString * const GHServerHTTPSEnterpriseScheme = @"https";
 
 @end
 
+#pragma mark -
+
 @implementation GHServer
 
 - (NSURL *)APIEndpoint {
