@@ -1,6 +1,8 @@
 PODS:
+  - BoltsTask (1.1.0)
   - Expecta (0.3.1)
-  - GitHubAPI (0.1.0)
+  - GitHubAPI (0.1.0):
+    - BoltsTask
   - Specta (0.2.1)
 
 DEPENDENCIES:
@@ -13,8 +15,9 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
+  BoltsTask: 11cea41b3e62af557986332f6155e1822ce7b4e0
   Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
-  GitHubAPI: 272158ec0436be4d8a05818b6a58b59b8efa5cdc
+  GitHubAPI: 5aa087dcd8db9a3b612527ff34235e480580362e
   Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
 
 COCOAPODS: 0.33.1
