@@ -8,6 +8,9 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/PodBuilder/GitHubAPI.git", :tag => s.version.to_s }
 
   s.dependency 'BoltsTask'
+  s.dependency 'Mantle'
+  s.dependency 'ISO8601DateFormatter'
+
   s.source_files = 'Pod/Classes'
   s.requires_arc = true
 end

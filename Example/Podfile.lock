@@ -3,6 +3,12 @@ PODS:
   - Expecta (0.3.1)
   - GitHubAPI (0.1.0):
     - BoltsTask
+    - ISO8601DateFormatter
+    - Mantle
+  - ISO8601DateFormatter (0.7)
+  - Mantle (1.5):
+    - Mantle/extobjc
+  - Mantle/extobjc (1.5)
   - Specta (0.2.1)
 
 DEPENDENCIES:
@@ -17,7 +23,9 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   BoltsTask: 11cea41b3e62af557986332f6155e1822ce7b4e0
   Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
-  GitHubAPI: 5aa087dcd8db9a3b612527ff34235e480580362e
+  GitHubAPI: 18219a2c410c0386e1d0a1c381ebcd6d0b3ec485
+  ISO8601DateFormatter: 59731cd880cf87e71b4fa95f0d6b713dcbc4cbce
+  Mantle: c67a7e45e14196ed42b2a7cbb98ff6a9920e6b92
   Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
 
 COCOAPODS: 0.33.1
