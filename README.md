@@ -4,8 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/GitHubAPI.svg?style=flat)](http://cocoadocs.org/docsets/GitHubAPI)
 [![Platform](https://img.shields.io/cocoapods/p/GitHubAPI.svg?style=flat)](http://cocoadocs.org/docsets/GitHubAPI)
 
-This is an Objective-C client library for the GitHub API v3, built upon
-the [Bolts Framework](https://github.com/wjk/BoltsTask).
+This is an Objective-C client library for the GitHub API v3, based upon
+[Octokit](https://github.com/octokit/octokit.objc). This library has been
+modified to use the [Bolts Framework](https://github.com/wjk/BoltsTask)
+instead of ReactiveCocoa.
 
 ## Usage
 
